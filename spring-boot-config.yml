@@ -1,0 +1,9 @@
+my:
+  greeting: "Hello Aman"
+  list:
+    values: "Aman,Sahil,Shivani from config server "
+
+db:
+  connection: "{connectionString: 'http://____', userName: 'foo', password: 'pass'}"
+  host: 127.0.0.1
+  port: 3306
